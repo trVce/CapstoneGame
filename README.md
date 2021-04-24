@@ -1,13 +1,20 @@
 # Capstone2077
+Developed with Unreal Engine 4.25.4
 
-Developed with Unreal Engine 4
-
-##Editing Game Files
+## Building Game
 In order to build project to edit the project you must download Unreal Engine 4.25.4
-After you download and install Unreal Engine 4.25.4 you can right click on the project file "Capstone2077.uproject" and click "Generate Visual Studio project files"
 
-Then you can open the Project file in the editor.
+Ensure that you download all these package and add them to the Capstone2077 Project. They can be found in the Epic Game Store's section for Unreal Engine.
 
-##Playing Game
+### Packages
+- FPS Weapon Bundle 
+- GOOD SKY
+- Infinity Blade: Grass Lands
+- Quadruped Fantasy Creature
+- Medieval Dungeon
 
-Navigate to the WindowsNoEditor Folder and open the "Capstone2077.exe"
+After you download and install Unreal Engine 4.25.4 and have all the packages you can right click on the project file "Capstone2077.uproject" and click "Generate Visual Studio project files"
+
+
+
+
